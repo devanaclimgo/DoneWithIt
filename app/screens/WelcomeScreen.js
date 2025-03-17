@@ -15,6 +15,7 @@ const WelcomeScreen = (props) => {
 const styles = StyleSheet.create({
   background: {
     flex: 1,
+    justifyContent: 'flex-end'
   },
   loginButton: {
     width: '100%',
